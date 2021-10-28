@@ -6,4 +6,4 @@
 
 * Para utilizar los componentes de React Bootstrap, debo importar cada componente que estoy utilizando desde "react-bootstrap".
 
-*
+* No podemos mezclar varias librerias o frameworks de css en una misma app porque se chocan los nombres de sus clases.
